@@ -1,0 +1,15 @@
+ .card-holder {
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   max-height: 15%;
+   margin-bottom: -140px;
+ }
+
+ .card-list {
+   list-style: none;
+ }
+
+ .card-img {
+   float: left;
+ }
